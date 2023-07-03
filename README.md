@@ -14,4 +14,4 @@ dec_shvars.Register("ClanData",{
 yes but afaik it's only for individual variables, do you expect me to encode multiple variables in like a string or something?
 
 ### haven't you done that though?
-more often than you'd want to hear about
+[more often than you'd want to hear about](https://github.com/lionbryce/checkers-compressor)
